@@ -48,28 +48,19 @@ h2{
     font-family: 'arial';
     color: white  ;
 }
-#box{
-    display: inline;
-    min-width: 300px;
-    min-height: 300px;
-    max-width: 300px;
-    max-height: 300px;
-    
+.inline-block{
+    display: inline-block;
+    min-width: 100px;
+    min-height: 50px;
     background-color: palevioletred ;
     border-radius: 5px;
     font-family: 'arial';
     color: white  ;
-}
-#box{
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding-top: 50px;50px;
+      padding-top: 50px;50px;
     padding-bottom: 50px;
-    margin-right: 50px;
-    margin-left: 50px;
     padding: 50px;
-    margin: 50px;
 }
+
 .hidden{
     display: none;
 }
